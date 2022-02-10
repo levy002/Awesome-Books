@@ -1,10 +1,12 @@
 # Awesome-Books
-![awesome-books-screenshot](https://user-images.githubusercontent.com/87197412/152874942-c0844de4-2637-4a3c-b812-12f9369e2e2b.png)
-
+<img src="images\Shoot1.png" alt="Book List">
+<img src="images\Shoot2.png" alt="Book Form">
+<img src="images\Shoot3.png" alt="Contact">
 
 ## Built With
 
 - HTML
+- CSS
 - JavaScript
 
 ## Live Demo
@@ -31,6 +33,11 @@ Open index.html in Chrome
 
 - GitHub: [Levy Ukwishaka](https://github.com/levy002)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/levy-ukwishaka-405391223/)
+
+👤 **Author2**
+
+- GitHub: [@Bavon101](https://github.com/Bavon101)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/akumu-bavon-335416193/)
 
 ## 🤝 Contributing
 
