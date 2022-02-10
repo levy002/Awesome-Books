@@ -10,6 +10,7 @@
 - JavaScript
 
 ## Live Demo
+[Live Demo Link](https://levy002.github.io/Awesome-Books/)
 
 ## Getting Started
 
