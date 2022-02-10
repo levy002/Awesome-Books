@@ -1,3 +1,159 @@
 body {
-  background-color: #fff;
+  background-color: white;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
+
+header {
+  width: 95%;
+  margin: 20px auto 0;
+  display: flex;
+  flex-flow: column;
+}
+
+hr {
+  margin: 0;
+}
+
+#time {
+  align-self: end;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+  padding: 5px 10px;
+}
+
+nav h3 {
+  margin: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  color: blue;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  gap: 20px;
+  margin: 0;
+}
+
+nav li {
+  display: flex;
+  gap: 15px;
+}
+
+button {
+  border: 3px solid black;
+  cursor: pointer;
+  background-color: #fff;
+  font-weight: bolder;
+}
+
+#booksSection {
+  border: 2px solid black;
+  width: 95%;
+  margin: 0 auto;
+}
+
+#booksSection h3 {
+  text-align: center;
+}
+
+#booksSection ul {
+  margin: 0;
+  padding: 0;
+}
+
+form button {
+  width: 60px;
+  align-self: end;
+}
+
+#booksSection li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 8px;
+  margin: 0;
+}
+
+#booksSection li:nth-child(odd) {
+  background-color: rgb(247, 241, 241);
+}
+
+.form-section {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-flow: column;
+  gap: 10px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+form label {
+  display: flex;
+  width: 100%;
+}
+
+form input {
+  padding: 3px 3px;
+  width: 100%;
+}
+
+#contact {
+  display: none;
+  flex-flow: column;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#contact h3 {
+  text-align: center;
+}
+
+#contact p {
+  margin: 0;
+}
+
+footer {
+  width: 95%;
+  display: flex;
+  margin: 40px auto 0;
+}
+
+footer > * {
+  border: 2px solid black;
+  width: 100%;
+  margin: 0;
+  padding: 5px 5px;
+}
+
+.active_menu {
+  color: blue;
+}
+
+.disappear {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
+
